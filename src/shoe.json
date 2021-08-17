@@ -1,0 +1,30 @@
+[
+    {
+        "id":"1",
+        "img":"https://en.mlb-korea.com/web/product/medium/202103/b96ad93c69a869f1e19d684548517710.jpg",
+        "name":"CHUNKY HIGH NEW YORK YANKEES",
+        "price":"83",
+        "number":"0"
+    },    
+    {
+        "id":"2",
+        "img":"https://en.mlb-korea.com/web/product/medium/202103/ee72ca5ebb74e2f146628bb7cce776c4.jpg",
+        "name":"BIGBALL CHUNKY P BOSTON RED SOX",
+        "price":"75",
+        "number":"0"
+    },    
+    {
+        "id":"3",
+        "img":"//en.mlb-korea.com/web/product/medium/202103/9d8a7f9820954b03552be0c9d2c1a316.jpg",
+        "name":"CHUNKY HIGH NEW YORK YANKEES",
+        "price":"83",
+        "number":"0"
+    },    
+    {
+        "id":"4",
+        "img":"//en.mlb-korea.com/web/product/medium/202103/1eea0eefaf704bf836501a109132d129.jpg",
+        "name":"BIGBALL CHUNKY LIKE NEW YORK YANKEES",
+        "price":"91",
+        "number":"0"
+    } 
+]
