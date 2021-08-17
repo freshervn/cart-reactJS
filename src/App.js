@@ -35,10 +35,10 @@ function App() {
           <h1> Shoes-MBL Global </h1>
           <hr/>
           <Row>
-              <Col span={[16, { xs: 8, sm: 16, md: 18, lg: 18 }]}>
+              <Col xs={24} lg={18}>
                   <Row>
                       {Shoe.map ((shoe)=>                        
-                          <div className='col-md-6 col-lg-4 px-4' key={shoe.id}>                        
+                          <div className='col-md-6 col-lg-4 px-lg-4' key={shoe.id}>                        
                               <figure className='shadow bg-light'>
                                   <picture>
                                       <img src={shoe.img} alt="" className='w-100' />
@@ -63,7 +63,7 @@ function App() {
                       )}
                   </Row>
               </Col>
-              <Col span={6} className='px-3'>
+              <Col xs={24} lg={6} className='px-3'>
                   <h2> Cart </h2>
                   <Row>    
                       { cart.map((item) =>                             
